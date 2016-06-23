@@ -28,7 +28,7 @@ public class Application extends SpringBootServletInitializer {
 @ImportResource("classpath:config/applicationContext.xml")
 class XmlImportingConfiguration {
 	application.sources(Application.class);
-	test
+	test12
     }
 }
 
